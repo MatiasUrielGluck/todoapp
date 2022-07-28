@@ -6,6 +6,8 @@ Simple SPA using Vue CLI.
 
 The app allows the user to create to-dos and switch them to completed or active categories. The data is stored using localStorage.
 
+Here is the demo, hosted in Netlify: [demo](https://todoapp-matiasurielgluck.netlify.app/)
+
 ## Project setup
 ```
 npm install
