@@ -1,5 +1,11 @@
 # todoapp
 
+## About the project
+
+Simple SPA using Vue CLI.
+
+The app allows the user to create to-dos and switch them to completed or active categories. The data is stored using localStorage.
+
 ## Project setup
 ```
 npm install
